@@ -1,3 +1,40 @@
+###Linux###
+
+# .*
+!.gitignore
+*~
+*.bak
+
+# KDE
+.directory
+
+
+###Windows###
+
+# Windows image file caches
+Thumbs.db
+
+# Folder config file
+Desktop.ini
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+
+###OSX###
+
+.DS_Store
+
+# Thumbnails
+._*
+
+# Files that might appear on external disk
+.Spotlight-V100
+.Trashes
+
+
+###Node###
+
 lib-cov
 *.seed
 *.log
@@ -10,6 +47,14 @@ lib-cov
 pids
 logs
 results
+node_modules
 
 npm-debug.log
-node_modules
+
+###Compass###
+.sass-cache
+
+### Projects ###
+
+.tmp
+src/components
