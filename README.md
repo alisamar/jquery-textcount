@@ -20,16 +20,13 @@ Three quick start options are available:
 ### Basic Usage
 
 #### Single Mode
-
-##### HTML
-
-```
+```html
+<!-- HTML -->
 <p class="text-effect">
 Digital Design Does Matter in Fourdesire
 </p>
 ```
-
-##### JavaScript
-```
+```javascript
+// Javascript
 $(".text-effect").textEffect()
-``
+```
