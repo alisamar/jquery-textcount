@@ -1,0 +1,23 @@
+{
+  "name": "jquery-textcount",
+  "version": "0.1.0",
+  "homepage": "https://github.com/alisamar/jquery-textcount",
+  "authors": [
+    "Fourdesire"
+  ],
+  "description": "Text Effects is a sci-fi style awesome effect made with jQuery.",
+  "main": "jquery.textcount.js",
+  "keywords": [
+    "text effect",
+    "jquery",
+    "text count"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
